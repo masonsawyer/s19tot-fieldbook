@@ -7,7 +7,7 @@ categories:
 author: "MASON SAWYER"
 comments: false
 ---
-#The Way We Read
+# The Way We Read
 ### Mason Sawyer
 As I read the selection of _How the Page Matters_ by Bonnie Mak, I was curious to see how she would address the issue of typeface, whitespace, layout, and the visual connotations that we as a society have placed upon such optical reading cues. Mak's mention of the fact "that specific letterforms can infuse a text with social or political suggestion," brought to mind a book on typography I read over the summer by Simon Garfield called _Just My Type._ Garfield's book discussed how we as readers make subtle judgments of text based upon the typefaces we encounter. Since reading it, I often think about the connotations of different fonts when I read a piece. Upon further introspection, I have realized that I too associate serif type with scholarly works and formal pieces, while sans serif reads as modern and edgy. Though Mak's piece made brief mentions of typography and the way that we interact with the modern forms of text, I feel like the chapter might have been more successful overall if those were discussed more and contrasted with the details of the papyrus scrolls' and the other textual formations mentioned. 
 <br>
