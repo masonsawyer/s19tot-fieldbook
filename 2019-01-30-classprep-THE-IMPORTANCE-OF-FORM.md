@@ -8,7 +8,7 @@ author: "MASON SAWYER"
 comments: false
 ---
 ## The Importance of Form
-##### Mason Sawyer
+##### Mason Sawyer 
 
 Reading Annette Vee’s “Introduction: Computer Programming as Literacy” and Ellen Cushman’s “‘We’re Taking the Genius of Sequoyah into This Century’” I became acutely aware of the form of the writing I was reading and how it influenced my response to the pieces. I read Cushman’s piece first and while I enjoyed it for its content I didn’t give the form of the writing any particular thought. It was only upon my reading of Vee’s piece that I thought back to what had made the former article so structurally appealing. 
 
