@@ -7,7 +7,7 @@ categories:
 author: "MASON SAWYER"
 comments: false
 ---
-## Defining Content 
+## Defining Content
 #### Mason Sawyer 
 In the first reading of Amaranth Borsuk’s “The Book,” I was surprised that there was not more discussion of the printing process in the section on _The Book as Object._ Now, I realise this is because Borsuk has decided to place the matters of type within the “Content” heading section. This idea of defining the line between content and object I found to be both tenuous, and immensely blurred, due to my own notions of what a book _physically_ is. I associated the pringting and the printed letters, illustrations, and other marks on a page within a book to be part of its overall form, _it as an object_; however, Borsuk suggests that this, in fact, is a matter of its content instead. Conversely, I’ve interpreted the meaning of said text or images to be a book’s content, rather than how they appear. This philosophy seems more in line with that of copyright law and the “ideas about ownership [which] had developed with  the rise of print as publishers sought to protect themselves against competition,” (Borsuk 97). 
 
