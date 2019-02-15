@@ -1,0 +1,15 @@
+---
+layout: post
+title: "TYPESETTING HISTORY"
+subheadline: ""
+categories:
+    - fieldbooks
+author: "MASON SAWYER"
+comments: false
+---
+## Typesetting History
+#### Mason Sawyer 
+In reading the articles for today’s classprep, I was very pleased to see that we were finally getting to discuss how fonts and layout change the reading experience. Perhaps it's because I am an English student who spends a large quantity of time writing, but reading Chris Gayomali’s discussion of different fonts really resonated. I wholeheartedly agree that “a lot goes into typeface design that we tend not to think about,” and that we underestimate the impact font has on us subconciously (Gayomali). When writing for college, most assignments provide little leeway for font selection, with the options of either Arial or Times New Roman being the most prolific; however, whenever possible I tend to write in Georgia simply because I think that the slightly more rounded forms and greater weight of the type are pleasing. Reading the discussion of Phil Renaud's 2006 "somewhat famous quasi-experiment" felt like a validation of my feelings (Gayomali). Perhaps this is because "Times New Roman" and "standard" are practically synonyms in my mind, as Renaud expressed: "Times seems to be the norm, so it really doesn't set off any subconscious triggers," (Gayomali). I also agree that "Georgia is enough like Times to retain its academic feel, and is different enough to be something of a relief for the grader," (Gayomali). 
+
+Just as I find it incredibly difficult to imagine a world in which 
+"standard font" and "Times New Roman" are not synonymous, I found it hard to picture writing in a time before spaces. Lindsay Lynch's Article *How I Came to Love the En Space* was shocking to me as the idea of writing, much less reading, without space seems impossible. However, I did appreciate that Lynch's article illuminated the changed attitude to the overall concept of space in text and the fact that spaces are not simply the absence of type but rather that "every bit of white space is an object. When typesetting, a printer has to think about negative space as something tangible," (Lynch). In this way, space becomes a commodity, having its own intrinsic values and possibilities. Lynch also notes that the minimalism of today was nowhere to be found in earlier printing, as such a vast amount of unused space represented lost profits. Such a characterization of space as money complicates Sydney J. Shep's piece. It makes us ask the question: what is the value of a funny face?  The price of a visual joke? By noting the value of printed space, the significance of the "'portrait painting by type,’" increases, showing that at the time, while it was clearly had some of the humor emojis have today, such faces were signs of printing innovation as well (Shep). By looking at the progression of something we now consider commonplace, like emojis, we're able to see the differing of values in the world of printing, and perhaps see the changeover from a technology focused on profit to one that was abundant enough that experimentation and creativity became key to standing out.  
