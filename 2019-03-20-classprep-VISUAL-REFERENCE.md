@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DECONSTRUCTING MEANING"
+title: "VISUAL REFERENCE"
 subheadline: ""
 categories:
     - fieldbooks
