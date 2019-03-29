@@ -1,0 +1,19 @@
+---
+layout: post
+title: "LITERARY BREAKDOWNS"
+subheadline: ""
+categories:
+    - fieldbooks
+author: "MASON SAWYER"
+comments: false
+---
+## Literary Breakdowns
+#### Mason Sawyer 
+
+The idea of turning literature into data is both an exciting and a slightly frightening one. As we saw in _The Thrilling Adventures of Lovelace and Babbage_ with Marian Evans, there appears to be something inherently lost when the medium of a manuscript is taken and transferred into data. I found it interesting to comb through the different word counts of texts in class, specifically I looked at Homer’s _Iliad_. However, when we looked at the corpus of Jane Austen’s work, I found myself wondering what knowing this information regarding her texts that I never would have known without computing them, might change how I thought about the pieces as a whole? 
+
+As someone who hasn’t read as much Austen as I probably should have by this point, I found myself compelled by what I could glean about Austen’s work from the data we pooled. This led me to think about how analyzing works _before_ reading them might alter the reading experience. By looking at the most used words, sans stop-words, I began to be able to see where different texts focused and what their key themes were. I could see this being really helpful if one was seeking to analyze how different themes make up a text. Additionally, if one was to analyze a text chapter by chapter, I believe it would be possible to see the transition between focus within the text and perhaps better understand the pacing of the book. 
+
+On the negative side of things however, there seems to be something lost in the simultaneity of analyzing these texts. A book, though its contents may not be chronological, has an order to it, especially novels and other works of fiction. There is a certain amount of progressive meaning which the readers are meant to draw. As the characters and plot develop over the course of the story, our understanding is also supposed to change and evolve, a process which is generally the crux of an engaging read. When we begin to break down and analyze these texts via code, it removes the necessity of time in order to have such a revelation. Additionally, in the case of the corpus of Jane Austen, or any other situation in which one analyzes a sum of books rather than one, there is the issue of simultaneous consideration. These books were written in a specific order and by consuming them in the order they were written, we’re able to experience the progression of the author as a writer. Additionally, barring any sequels or spinoffs, the texts within an author’s body of work are separate. When we begin to look at them as part of a single whole rather than individual works, it’s easy to lose the nuances that come with looking at a text as a stand-alone piece. 
+
+Despite my concerns about what analyzing texts might do to our interpretation of then, I enjoyed this lab a lot because it was an opportunity to connect what we’re learning about to ideas about artificial intelligence and the influence of literature, two subjects that I personally find fascinating. It seems to me that the ability to convert texts into data would serve the purpose of helping to identify key themes throughout the text, especially if one was to break it down by the type of words used. For example: how many expressions of gratitude are used in a story and by whom? What are the negative associations within a text or group of texts? Literature is an excellent tool for showing how humans relate to one another, especially because a story has specific parameters for plot and setting in which said interactions occur. It seems to me that this would make it an ideal tool for helping to imbue the technology we create with a greater sense of “humanity.”  
