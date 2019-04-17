@@ -6,7 +6,7 @@ categories:
     - fieldbooks
 author: "MASON SAWYER"
 comments: false
---- 
+---        
 ## The Future of Phsyical
 #### Mason Sawyer
 In reading this final section of _Station Eleven_ I was fascinated by the Museum of Civilization and its location in an airport. I found the fact that Clark has taken up residence in an airport fantastically oxymoronic to our present-day notion of the airport. Airports are places of transit, _liminal_ some might say. The notion of remaining in an airport is inherently negative: it is indicative of inefficient travel. Delays. Layovers. Canceled flights. However, the airport begs the question: what does something's meaning become when its function is inherently impossible? No one is flying in the time after the flu has devastated the planet. This, much like the fall of technology, has rendered the airport functionally moot, yet, it remains. 
